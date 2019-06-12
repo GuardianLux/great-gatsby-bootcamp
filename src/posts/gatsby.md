@@ -5,6 +5,8 @@ date: "09/06/2019"
 
 I'm working on a bootcamp
 
+![Nature](./download.jpeg)
+
 ## Topics Covered
 
 1. Gatsby
