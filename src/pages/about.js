@@ -17,7 +17,7 @@ const AboutPage = () => {
             <p>
                 Visit my github by clicking the icon below
             </p>
-            <a href="https://github.com/GuardianLux"><img src="GitHub-Mark-64px.png" /></a>
+            <a href="https://github.com/GuardianLux"><img src="./GitHub-Mark-64px.png" /></a>
         </Layout>
     )
 }
