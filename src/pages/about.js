@@ -14,7 +14,10 @@ const AboutPage = () => {
             <p>
                 Hi, I'm an aspiring software developer currently studying at Monash University in Melbourne, Australia
             </p>
-            <p><Link to="/contact">Contact Me</Link></p>
+            <p>
+                Visit my github by clicking the icon below
+            </p>
+            <a href="https://github.com/GuardianLux"><img src="GitHub-Mark-64px.png" /></a>
         </Layout>
     )
 }
