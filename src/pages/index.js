@@ -11,6 +11,7 @@ const IndexPage = () => {
             <h1>
                 Hello!
             </h1>
+            <img src="./41714544.jpeg" />
             <h2>
                 Welcome to my site, where I'll be posting information about projects I'm working on in my freetime, as well as my experiences completing my Masters
             </h2>
