@@ -13,6 +13,9 @@ const ContactPage = () => {
             <p>
                 <a href="mailto:mhen0009@student.monash.edu">Email me</a>
             </p>
+            <p>
+                You can also reach me on discord @Lux#6045
+            </p>
         </Layout>
     )
 }
